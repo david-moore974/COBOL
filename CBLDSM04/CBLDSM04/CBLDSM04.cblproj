@@ -26,6 +26,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="CBLDSM04.cbl" />
+    <Compile Include="Program1234567890.cbl" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Micro Focus\Visual COBOL\v1.0\MicroFocus.COBOL.targets" />
 </Project>
